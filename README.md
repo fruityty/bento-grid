@@ -4,24 +4,14 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
 - [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
 
 ### Screenshot
 
-[](./Screenshot%202567-11-27%20at%2018.14.53.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![screenshot](./Screenshot%202567-11-27%20at%2018.14.53.png)
 
 ## My process
 
@@ -36,4 +26,3 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 
 - Linkedin - [Danuphat Limapirak](https://www.linkedin.com/in/danuphat-l/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
